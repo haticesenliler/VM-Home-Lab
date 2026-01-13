@@ -1,1 +1,6 @@
 Dowloanded VirtualBox in order to create own virtual machine. 
+Installed  Windows 10 ISO file and inserted? into the VM as a guest host. 
+Instelled Kali VirtualBox 
+Two VMs are in the virtual machiene manager system. 
+Changed the network settings of virtual machines to internal network in order for them to communicate with each other easily. 
+Added own choice of ip addresses to each VMs seperatly in order to be able to configure the VMs.
