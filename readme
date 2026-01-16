@@ -1,6 +1,8 @@
-Dowloanded VirtualBox in order to create own virtual machine. 
-Installed  Windows 10 ISO file and inserted? into the VM as a guest host. 
-Instelled Kali VirtualBox 
-Two VMs are in the virtual machiene manager system. 
-Changed the network settings of virtual machines to internal network in order for them to communicate with each other easily. 
-Added own choice of ip addresses to each VMs seperatly in order to be able to configure the VMs.
+Downloaded VirtualBox in order to create my own virtual machines.
+Installed a Windows 10 ISO file and attached it to the VM as a guest operating system.
+Installed Kali Linux in VirtualBox.
+Both VMs are managed within the VirtualBox virtual machine manager.
+Changed the network settings of both virtual machines to Internal Network so they could communicate with each othe without internet access. 
+Manually assigned IP addresses to each VM in order to configure networking properly.
+Verified communication between the hosts using ping.
+
